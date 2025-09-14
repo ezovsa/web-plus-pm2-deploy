@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+- IP адрес: ``85.193.80.205``
+- Frontend: [https://upvix.ru/](https://upvix.ru/)
+- Backend: [https://api.upvix.ru/](https://api.upvix.ru/)
